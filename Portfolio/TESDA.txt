@@ -1,0 +1,68 @@
+TESDA Web Development Course Summary
+
+Lesson 1: Intro
+unimportant intro
+Lesson 2: Semantics
+
+HTML Semantics:
+-the process of structuring a webpage
+HTML Semantic Units:
+	tags:
+	-"<>"
+	Elements:
+	-"<div></div>"
+Javascript:
+-<script> tag that lets you add scripts in your code
+
+Elements specified:
+<article>
+<header>
+<hgroup>
+<footer>
+<nav>
+<aside>
+
+Lesson 3: Forms
+
+Creating input fields with different funcionalities such as checking the validity of the input
+
+Elements specified:
+<progress>
+<datalist>
+<input>
+
+Scripts specified:
+checkValidity()
+
+Lesson 4: Cascading Style Sheets 3
+
+Opacity
+Gradient Colors
+Border-Radius
+Box-Reflect
+Text Shadow
+Transition and Transition Properties
+CSS3 Animation
+CSS3 Transform Methods
+Media queries
+
+Lesson 5: Audio & Video
+
+Lesson 6: Canvas
+"<canvas>" element
+	-can only be accessed by id        
+
+beginPath() - Indicates start of path creation process
+
+moveTo() - Determines the start point of the line.
+
+lineTo() - Determines the endpoint of the line.
+
+stroke() - Draws the path and gives it a color. The default color for the stroke is black
+fill() - if drawing a shape, fills the inside your desired color(black by default)           
+
+Lesson 7: Geolocation
+
+position.coords.latitude;
+position.coords.longitude;
+                                                                                                                                                                                                                                                                   
